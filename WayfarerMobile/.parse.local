@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Wayfarer Mobile": {
+      "applicationId": "XwkSTWDXnoehDab10QUlPgD7BWCBmFmRo9nVLwTx"
+    },
+    "_default": {
+      "link": "Wayfarer Mobile"
+    }
+  }
+}

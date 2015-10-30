@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "WayfarerMobile": {
+            "applicationId": "XwkSTWDXnoehDab10QUlPgD7BWCBmFmRo9nVLwTx",
+            "masterKey": "5s4vBTd4Im9S1sZpsUDtfNXjobuHxmgIXYAqXynt"
+        }, 
+        "_default": {
+            "link": "WayfarerMobile"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.4.2"
+    }
+}
